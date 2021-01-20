@@ -4,7 +4,7 @@ This is hary potter magical cloak using computer vision. The algorithm stores th
 
 # Following are the Requirements
 
-* Python 3.5 and above
+* Python 3.5
 * OpenCV
 
 
